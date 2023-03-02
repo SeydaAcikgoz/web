@@ -1,0 +1,29 @@
+div {
+    text-align: center;
+    font-size: 16px;
+}
+
+h1{
+    color: rgb(0, 0, 0);
+}
+
+h3 {
+    color: blueviolet;
+}
+
+
+h4 {
+    color: rgb(192, 192, 5);
+}
+
+img {
+    height: 300px;
+    width: 300px;
+}
+
+ul{
+    list-style: none;
+}
+
+
+
